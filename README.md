@@ -1,2 +1,28 @@
-# e5813504-maritime-shipping-project-ma
-Tired of juggling spreadsheets, emails, and sticky notes just to track port calls, crew rotations, and cargo deadlines?  This Notion template transforms your fragmented shipping ops into a single, live command center. It automates task dependencies, crew availability, and compliance checklists so your team stops chasing updates and starts moving ca
+# Maritime & Shipping Project Management and Team Collaboration Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/6oU7sLfXx4sc1de5bud0k0m)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/6oU7sLfXx4sc1de5bud0k0m)
+
